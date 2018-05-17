@@ -57,6 +57,13 @@
 ._文本段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
 ._流程形状 {
 }
 .table_cell {
@@ -98,4 +105,6 @@
   text-align:left;
 }
 .button1 {
+}
+.box_2 {
 }
